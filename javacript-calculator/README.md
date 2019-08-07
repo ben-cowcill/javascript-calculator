@@ -1,5 +1,5 @@
 
-# React.js Calculator
+# Javascript Calculator
 
 ## Description
 
