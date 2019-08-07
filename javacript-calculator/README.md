@@ -7,8 +7,8 @@ A simple calculator app built in React.js using Creat React App.
 
 ## Requirements
 
--npm
--Create React App <https://facebook.github.io/create-react-app/docs/getting-started)>
+* npm
+* Create React App <https://facebook.github.io/create-react-app/docs/getting-started)>
 
 ## Demo
 
